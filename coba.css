@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(243, 237, 182);
+}
+#logo{
+    background-color: rgb(241, 226, 142);
+    height: 150px;
+    width: 100%;
+    border:5px solid darkslateblue;
+}
+#header{
+    height: 50px;
+    margin-top: 10px;
+    word-spacing: 30px;
+}
+#container{
+    height : 1000px;
+    width: 800px;
+    display: inline-block;
+}   
+#bpl_logo{
+    height:140;
+    width: 500;
+    margin: 5px 375px 5px 375px;
+}
+.article{
+    height: 500px;
+    width: 375px;
+    border:5px solid darkcyan;
+    /*margin: 10px 10px 25px 10px;*/
+    background-color: rgb(241, 226, 142);
+    float: left;
+}
+.img1{
+    height: 150;
+    width: 100%;
+}
+#klasmen{
+    float: right;
+    background-color: rgb(241, 226, 142);
+    border: 5px solid black;
+    
+}
+th{
+    border: 3px solid black;
+}
+table,tr,td{
+    border: 1px solid black;
+}
