@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(243, 237, 182);
+    background-color: rgb(206, 188, 32);
 }
 #logo{
     background-color: rgb(241, 226, 142);
@@ -48,4 +48,19 @@ th{
 }
 table,tr,td{
     border: 1px solid black;
+}
+#video{
+    width: 1220px;
+    height: 630px;
+    
+
+}
+.match{
+    width: 560px;
+    height: 315px;
+    border: 3px solid brown;
+    float: left;
+    margin-right: 40px;
+    margin-bottom: 25px;
+    
 }
